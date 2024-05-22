@@ -20,6 +20,6 @@ https://www.visualcrossing.com/
 
 Rough breakdown:
 Daniel Gomez -33%
-Anthony Banks  -33%
-Andrew Bullard-33%
+Anthony Banks  -0%
+Andrew Bullard-66%
 ![image](https://github.com/irey101/Project-1/assets/77195299/ba3a9d4d-ab1b-4811-8960-adb762cfe624)
